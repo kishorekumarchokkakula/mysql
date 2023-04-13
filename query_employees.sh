@@ -2,7 +2,6 @@
 
 # Set database credentials
 DB_USER="admin"
-DB_PASS="password"
 DB_HOST="localhost"
 DB_PORT=3307
 DB_NAME="USE employees"
