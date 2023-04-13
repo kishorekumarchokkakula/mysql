@@ -10,4 +10,4 @@ DB_NAME="employees"
 QUERY="SELECT * FROM employees"
 
 # Connect to database and execute query
-mysql -u $DB_USER -p$DB_PASS -h $DB_HOST -P $DB_PORT -D $DB_NAME -e "$QUERY"
+mysql -u $DB_USER -p $DB_PASS -h $DB_HOST -P $DB_PORT -D $DB_NAME -e "$QUERY"
