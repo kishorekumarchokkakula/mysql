@@ -1,8 +1,8 @@
 #!/bin/bash 
 
 # Set database credentials
-DB_USER="kishorekumar"
-DB_PASS="Kittuhari@547"
+DB_USER="admin"
+DB_PASS="password"
 DB_HOST="localhost"
 DB_PORT=3307
 DB_NAME="USE employees"
