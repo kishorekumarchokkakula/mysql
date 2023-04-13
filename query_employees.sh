@@ -4,7 +4,7 @@
 DB_USER="admin"
 DB_HOST="localhost"
 DB_PORT=3307
-DB_NAME="USE employees"
+DB_NAME="employees"
 
 # Set query
 QUERY="SELECT * FROM employees"
