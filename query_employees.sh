@@ -5,6 +5,7 @@ DB_USER="admin"
 DB_HOST="localhost"
 DB_PORT=3307
 #DB_NAME="employees"
+DB_PASS="password"
 
 # Set query
 QUERY="SHOW databases"
