@@ -7,7 +7,7 @@ DB_PORT=3307
 #DB_NAME="employees"
 
 # Set query
-QUERY="SHOW databases;"
+QUERY="SHOW databases"
 
 # Connect to database and execute query
 mysql -u $DB_USER -p$DB_PASS -h $DB_HOST -P $DB_PORT -e "$QUERY"
